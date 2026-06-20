@@ -33,6 +33,12 @@ AI Food Donation Assistant is a Streamlit-based web application that helps reduc
 
 ---
 
+## 🔗 Project Links
+
+### GitHub Repository - 
+
+### Live Streamlit App - https://ai-food-donation-assistant.streamlit.app/
+
 ##  Features
 
 - Add food donation details
@@ -64,3 +70,12 @@ SDG 2: Zero Hunger
 - Location-based matching
 - Food expiry alerts
 - AI-powered donation recommendations
+
+##  Project Structure
+
+AI-Food-Donation-Assistant/
+│
+├── app.py
+├── donations.csv
+├── requirements.txt
+└── README.md 
