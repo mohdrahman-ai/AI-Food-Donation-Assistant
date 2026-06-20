@@ -39,6 +39,8 @@ AI Food Donation Assistant is a Streamlit-based web application that helps reduc
 
 ### Live Streamlit App - https://ai-food-donation-assistant.streamlit.app/
 
+---
+
 ##  Features
 
 - Add food donation details
