@@ -35,7 +35,7 @@ AI Food Donation Assistant is a Streamlit-based web application that helps reduc
 
 ## 🔗 Project Links
 
-### GitHub Repository - 
+### GitHub Repository - https://github.com/mohdrahman-ai/AI-Food-Donation-Assistant
 
 ### Live Streamlit App - https://ai-food-donation-assistant.streamlit.app/
 
