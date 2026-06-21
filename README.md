@@ -1,4 +1,4 @@
-# 🍱 AI Food Donation Assistant
+#  AI Food Donation Assistant
 
 ### Supporting SDG 2: Zero Hunger Through Smart Food Redistribution
 
